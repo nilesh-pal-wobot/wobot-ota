@@ -3,7 +3,7 @@
   "files": [
     {
       "name": "WobotRelay-Agent-1.0.3",
-      "url": "http://localhost:8080/1.0.3/WobotRelay-Agent-1.0.3",
+      "url": "https://nilesh-pal-wobot.github.io/wobot-ota/wobotrelay/1.0.3/WobotRelay-Agent-1.0.3",
       "checksum": "7cdc8e49f8d030e9669347a4fa988e1391df8a823609a8031146fe3b34c89d99",
       "mode": "0755"
     }
