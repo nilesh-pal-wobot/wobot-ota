@@ -1,0 +1,12 @@
+{
+  "version": "1.0.5",
+  "restart": true,
+  "files": [
+    {
+      "name": "WobotRelay-Agent-1.0.5",
+      "url": "https://raw.githubusercontent.com/nilesh-pal-wobot/wobot-ota/main/1.0.5/WobotRelay-Agent-1.0.5",
+      "checksum": "85727e5a020fbd13f0aac37e5e70a337fadb3c5e4c8adbd08d9e9671df5d18a9",
+      "mode": "0755"
+    }
+  ]
+}
